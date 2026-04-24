@@ -1,0 +1,36 @@
+{{- /* 本地服务器访问修正：将 localhost 链接替换为实际访问的主机名 */ -}}
+{{- if hugo.IsServer }}
+<script>
+(function() {
+  // 在 DOM 加载完成后修正链接
+  document.addEventListener('DOMContentLoaded', function() {
+    const currentHost = window.location.host;
+    const localhostPatterns = [/localhost:\d+/g, /127\.0\.0\.1:\d+/g, /0\.0\.0\.0:\d+/g];
+    
+    // 修正所有链接
+    document.querySelectorAll('a[href]').forEach(function(link) {
+      const href = link.getAttribute('href');
+      // 只处理绝对 URL（包含协议或 localhost）
+      if (href && (href.startsWith('http://localhost') || 
+                   href.startsWith('http://127.0.0.1') ||
+                   href.startsWith('http://0.0.0.0'))) {
+        // 替换为当前主机
+        const newHref = href.replace(/^https?:\/\/[^\/]+/, '//' + currentHost);
+        link.setAttribute('href', newHref);
+      }
+    });
+    
+    // 修正表单 action
+    document.querySelectorAll('form[action]').forEach(function(form) {
+      const action = form.getAttribute('action');
+      if (action && (action.startsWith('http://localhost') || 
+                     action.startsWith('http://127.0.0.1') ||
+                     action.startsWith('http://0.0.0.0'))) {
+        const newAction = action.replace(/^https?:\/\/[^\/]+/, '//' + currentHost);
+        form.setAttribute('action', newAction);
+      }
+    });
+  });
+})();
+</script>
+{{- end }}

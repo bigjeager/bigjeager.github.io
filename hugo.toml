@@ -1,0 +1,85 @@
+baseURL = 'https://bigjeager.github.io/'
+languageCode = 'zh-CN'
+title = 'BigJeager'
+theme = 'PaperMod'
+
+[params]
+  env = "production"
+  description = "BigJeager 的个人博客"
+  author = "BigJeager"
+  defaultTheme = "auto"
+  displayFullLangName = true
+  ShowCodeCopyButtons = true
+  ShowShareButtons = true
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowPostNavLinks = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  ShowAllPagesInArchive = true
+  ShowPageNums = true
+  ShowToc = true
+  TocOpen = true
+
+  # 首页配置
+  homeInfoParams = { Title = "欢迎来到 BigJeager 的博客 🎉", Content = "记录技术、生活与思考" }
+
+  # 社交链接
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/bigjeager"
+  [[params.socialIcons]]
+    name = "twitter"
+    url = "https://twitter.com/bigjeager"
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:bigjeager@example.com"
+
+  # 搜索引擎优化
+  [[params.customHead]]
+    html = '''<meta name="keywords" content="blog, technology, life">'''
+
+# 菜单配置
+[[menu.main]]
+  name = "首页"
+  url = "/"
+  weight = 1
+[[menu.main]]
+  name = "文章"
+  url = "/posts/"
+  weight = 2
+[[menu.main]]
+  name = "标签"
+  url = "/tags/"
+  weight = 3
+[[menu.main]]
+  name = "关于"
+  url = "/about/"
+  weight = 4
+
+# Markdown 渲染配置
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
+
+# 输出配置
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# RSS 配置
+[outputFormats.RSS]
+  limit = 20
+
+# 隐私配置
+[privacy]
+  [privacy.twitter]
+    disableInlineCSS = true
+  [privacy.youtube]
+    privacyEnhanced = true

@@ -1,0 +1,25 @@
+# Hugo
+public/
+resources/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Backup
+*.bak
+*.backup
+hugo-backup-*.tar.gz
+
+# Node (if using npm packages)
+node_modules/
