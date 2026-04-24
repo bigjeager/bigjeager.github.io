@@ -35,7 +35,7 @@ jobs:
 
       - name: Build with Hugo
         run: |
-          hugo --minify --gc --verbose
+          hugo --minify --gc
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
