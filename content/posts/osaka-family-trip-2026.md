@@ -200,7 +200,7 @@ showToc: true
 
 > 🍜 杯面博物馆 或 🏯 大阪市区室内景点 | 🌦️ 降雨概率 40%（灵活安排）
 
-![杯面博物馆](https://upload.wikimedia.org/wikipedia/commons/e/ea/%E5%AE%89%E8%97%A4%E7%99%BE%E7%A6%8F%E8%82%96%E5%83%8F.jpg)
+![杯面博物馆](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Cupnoodles-Museum-Yokohama.jpg/960px-Cupnoodles-Museum-Yokohama.jpg)
 *杯面博物馆 - 可以亲手制作属于自己的杯面*
 
 | 选项 | 活动 | 详情 |
