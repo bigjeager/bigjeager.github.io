@@ -42,7 +42,7 @@ showToc: true
 
 > ✈️ 新加坡 → 大阪关西机场 | 🌧️ 降雨概率 25%
 
-![osaka_night](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Osaka_Castle_02bs3200.jpg/960px-Osaka_Castle_02bs3200.jpg)
+![大阪夜景](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Osaka_Castle_02bs3200.jpg/960px-Osaka_Castle_02bs3200.jpg)
 *大阪夜景 - 欢迎来到大阪！*
 
 | 时间 | 活动 | 详情 |
@@ -63,7 +63,7 @@ showToc: true
 
 > 🦌 奈良公园 + 🙏 东大寺 | 🌤️ 降雨概率 15%（最佳户外日）
 
-![nara_deer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nara_Park_-_panoramio_%282%29.jpg/960px-Nara_Park_-_panoramio_%282%29.jpg)
+![奈良公园小鹿](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Nara_Park_-_panoramio_%282%29.jpg/960px-Nara_Park_-_panoramio_%282%29.jpg)
 *奈良公园 - 可以与野生小鹿亲密接触*
 
 | 时间 | 活动 | 详情 |
@@ -89,7 +89,7 @@ showToc: true
 
 > 🎢 Universal Studios Japan 一整天 | 🌦️ 降雨概率 30%（开始入梅）
 
-![usj](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/USJ_5years.JPG/960px-USJ_5years.JPG)
+![日本环球影城](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/USJ_5years.JPG/960px-USJ_5years.JPG)
 *日本环球影城 - 亚洲最受欢迎的主题公园之一*
 
 | 时间 | 活动 | 详情 |
@@ -122,7 +122,7 @@ showToc: true
 
 > 🐠 大阪海游馆 + 🎡 天保山摩天轮 | 🌧️ 降雨概率 50%（室内为主）
 
-![osaka_aquarium](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kaiyukan.JPG/960px-Kaiyukan.JPG)
+![大阪海游馆](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Kaiyukan.JPG/960px-Kaiyukan.JPG)
 *大阪海游馆 - 世界最大级别的水族馆，完全室内*
 
 | 时间 | 活动 | 详情 |
@@ -148,7 +148,7 @@ showToc: true
 
 > 🎮 Round1 游乐场 + 🏢 Grand Front 大阪 | 🌧️ 降雨概率 60%（完全室内）
 
-![umeda](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2018_Umeda_Sky_Building.jpg/960px-2018_Umeda_Sky_Building.jpg)
+![梅田区域](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/2018_Umeda_Sky_Building.jpg/960px-2018_Umeda_Sky_Building.jpg)
 *梅田区域 - 大阪现代商业区，有众多购物和娱乐设施*
 
 | 时间 | 活动 | 详情 |
@@ -200,7 +200,7 @@ showToc: true
 
 > 🍜 杯面博物馆 或 🏯 大阪市区室内景点 | 🌦️ 降雨概率 40%（灵活安排）
 
-![cupnoodles](https://upload.wikimedia.org/wikipedia/commons/e/ea/%E5%AE%89%E8%97%A4%E7%99%BE%E7%A6%8F%E8%82%96%E5%83%8F.jpg)
+![杯面博物馆](https://upload.wikimedia.org/wikipedia/commons/e/ea/%E5%AE%89%E8%97%A4%E7%99%BE%E7%A6%8F%E8%82%96%E5%83%8F.jpg)
 *杯面博物馆 - 可以亲手制作属于自己的杯面*
 
 | 选项 | 活动 | 详情 |
@@ -226,7 +226,7 @@ showToc: true
 
 > 🏯 大阪城 + 🌳 公园漫步 | 🌤️ 降雨概率 20%（最佳户外日）
 
-![osaka_castle](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Osaka_Castle_02bs3200.jpg/960px-Osaka_Castle_02bs3200.jpg)
+![大阪城](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Osaka_Castle_02bs3200.jpg/960px-Osaka_Castle_02bs3200.jpg)
 *大阪城 - 日本最著名的城堡之一，丰臣秀吉于 1583 年建造*
 
 | 时间 | 活动 | 详情 |
