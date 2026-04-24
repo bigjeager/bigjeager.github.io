@@ -1,18 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://bigjeager.github.io/</loc>
-    <lastmod>2022-06-11T22:12:28+08:00</lastmod>
-  </url><url>
-    <loc>https://bigjeager.github.io/posts/mypost/</loc>
-    <lastmod>2022-06-11T22:12:28+08:00</lastmod>
-  </url><url>
-    <loc>https://bigjeager.github.io/posts/</loc>
-    <lastmod>2022-06-11T22:12:28+08:00</lastmod>
-  </url><url>
-    <loc>https://bigjeager.github.io/categories/</loc>
-  </url><url>
-    <loc>https://bigjeager.github.io/tags/</loc>
-  </url>
-</urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://bigjeager.github.io/posts/osaka-family-trip-2024/</loc><lastmod>2026-04-24T00:00:00+00:00</lastmod></url><url><loc>https://bigjeager.github.io/</loc><lastmod>2026-04-24T00:00:00+00:00</lastmod></url><url><loc>https://bigjeager.github.io/categories/</loc><lastmod>2026-04-24T00:00:00+00:00</lastmod></url><url><loc>https://bigjeager.github.io/posts/</loc><lastmod>2026-04-24T00:00:00+00:00</lastmod></url><url><loc>https://bigjeager.github.io/tags/</loc><lastmod>2026-04-24T00:00:00+00:00</lastmod></url><url><loc>https://bigjeager.github.io/tags/%E4%BA%B2%E5%AD%90%E6%B8%B8/</loc><lastmod>2026-04-24T00:00:00+00:00</lastmod></url><url><loc>https://bigjeager.github.io/tags/%E5%A4%A7%E9%98%AA/</loc><lastmod>2026-04-24T00:00:00+00:00</lastmod></url><url><loc>https://bigjeager.github.io/tags/%E5%A5%88%E8%89%AF/</loc><lastmod>2026-04-24T00:00:00+00:00</lastmod></url><url><loc>https://bigjeager.github.io/categories/%E6%97%85%E8%A1%8C/</loc><lastmod>2026-04-24T00:00:00+00:00</lastmod></url><url><loc>https://bigjeager.github.io/tags/%E6%97%85%E8%A1%8C/</loc><lastmod>2026-04-24T00:00:00+00:00</lastmod></url><url><loc>https://bigjeager.github.io/tags/%E6%97%A5%E6%9C%AC/</loc><lastmod>2026-04-24T00:00:00+00:00</lastmod></url><url><loc>https://bigjeager.github.io/posts/hello-world/</loc><lastmod>2024-04-23T00:00:00+00:00</lastmod></url><url><loc>https://bigjeager.github.io/tags/blog/</loc><lastmod>2024-04-23T00:00:00+00:00</lastmod></url><url><loc>https://bigjeager.github.io/tags/github-pages/</loc><lastmod>2024-04-23T00:00:00+00:00</lastmod></url><url><loc>https://bigjeager.github.io/tags/hugo/</loc><lastmod>2024-04-23T00:00:00+00:00</lastmod></url><url><loc>https://bigjeager.github.io/about/</loc><lastmod>2024-04-23T00:00:00+00:00</lastmod></url><url><loc>https://bigjeager.github.io/categories/%E6%8A%80%E6%9C%AF/</loc><lastmod>2024-04-23T00:00:00+00:00</lastmod></url></urlset>
