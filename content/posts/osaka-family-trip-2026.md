@@ -42,7 +42,7 @@ showToc: true
 
 > ✈️ 新加坡 → 大阪关西机场 | 🌧️ 降雨概率 25%
 
-![大阪夜景](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Osaka_Castle_02bs3200.jpg/960px-Osaka_Castle_02bs3200.jpg)
+![大阪夜景](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Namba_20150531.JPG/960px-Namba_20150531.JPG)
 *大阪夜景 - 欢迎来到大阪！*
 
 | 时间 | 活动 | 详情 |
