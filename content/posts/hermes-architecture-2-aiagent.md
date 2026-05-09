@@ -145,16 +145,14 @@ class _SafeWriter:
 
 `agent/` 目录包含辅助模块：
 
-| 模块 | 功能 |
-|------|------|
-| `memory_manager.py` | 流式上下文清理、内存构建 |
-| `prompt_builder.py` | System Prompt 构建 |
-| `context_compressor.py` | 上下文压缩 |
-| `model_metadata.py` | 模型元数据、token估算 |
-| `error_classifier.py` | API 错误分类与故障转移 |
-| `retry_utils.py` | 抖动退避重试 |
-| `display.py` | KawaiiSpinner 动画显示 |
-| `trajectory.py` | 轨迹保存 |
+- **memory_manager.py**: 流式上下文清理、内存构建
+- **prompt_builder.py**: System Prompt 构建
+- **context_compressor.py**: 上下文压缩
+- **model_metadata.py**: 模型元数据、token估算
+- **error_classifier.py**: API 错误分类与故障转移
+- **retry_utils.py**: 抖动退避重试
+- **display.py**: KawaiiSpinner 动画显示
+- **trajectory.py**: 轨迹保存
 
 ## 代理配置
 

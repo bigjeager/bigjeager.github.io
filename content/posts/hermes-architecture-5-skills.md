@@ -81,13 +81,11 @@ claude --acp --stdio --model claude-opus-4-6
 
 ### Frontmatter 字段
 
-| 字段 | 说明 |
-|------|------|
-| `name` | 技能名称 |
-| `description` | 简短描述 |
-| `category` | 类别目录 |
-| `version` | 版本号 |
-| `requires` | 依赖工具 |
+- **name**: 技能名称
+- **description**: 简短描述
+- **category**: 类别目录
+- **version**: 版本号
+- **requires**: 依赖工具
 
 ## 技能加载机制
 

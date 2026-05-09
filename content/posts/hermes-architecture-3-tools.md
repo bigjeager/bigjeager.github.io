@@ -178,20 +178,18 @@ def resolve_toolset(name: str) -> list:
 
 `tools/` 目录包含约 60+ 工具：
 
-| 类别 | 工具 |
-|------|------|
-| **Web** | `web_search`, `web_extract` |
-| **Terminal** | `terminal`, `process` |
-| **File** | `read_file`, `write_file`, `patch`, `search_files` |
-| **Browser** | `browser_navigate`, `browser_click`, `browser_type`, `browser_vision` |
-| **Vision** | `vision_analyze`, `image_generate` |
-| **Skills** | `skills_list`, `skill_view`, `skill_manage` |
-| **Planning** | `todo`, `memory`, `session_search` |
-| **Delegation** | `execute_code`, `delegate_task` |
-| **Messaging** | `send_message`, `yuanbao_tools` |
-| **Smart Home** | `homeassistant_tool` |
-| **TTS** | `tts_tool` |
-| **Cron** | `cronjob_tools` |
+- **Web**: `web_search`, `web_extract`
+- **Terminal**: `terminal`, `process`
+- **File**: `read_file`, `write_file`, `patch`, `search_files`
+- **Browser**: `browser_navigate`, `browser_click`, `browser_type`, `browser_vision`
+- **Vision**: `vision_analyze`, `image_generate`
+- **Skills**: `skills_list`, `skill_view`, `skill_manage`
+- **Planning**: `todo`, `memory`, `session_search`
+- **Delegation**: `execute_code`, `delegate_task`
+- **Messaging**: `send_message`, `yuanbao_tools`
+- **Smart Home**: `homeassistant_tool`
+- **TTS**: `tts_tool`
+- **Cron**: `cronjob_tools`
 
 ## 工具执行流程
 
