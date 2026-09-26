@@ -18,8 +18,6 @@ showToc: true
 
 它叫 **Singlish**。字面意思是 Sing + English，边唱边学英语。它还有一层意思：在新加坡，Singlish 指的是新加坡人说的那种英语，句尾带个 *lah* 的那种。一个名字两种读法，我觉得挺合适：学英语本来就不必一板一眼。
 
-> 这篇文章替换了之前介绍 SingTheWord 的旧文。Singlish 是同一个想法的重做版：换了音源、换了选词方式，也换了一整套设计。
-
 ## 🎧 它长什么样
 
 <p align=center><img src=/images/singlish/desktop.jpg alt="桌面版：左边是唱片封套一样的单词卡，右边是正在播放的 CD 和卡拉 OK 歌词" style=max-width:100%></p>
