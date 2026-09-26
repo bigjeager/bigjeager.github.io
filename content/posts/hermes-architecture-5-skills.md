@@ -19,7 +19,7 @@ series_order: 5
 
 ## 技能目录结构
 
-```
+```text {linenos=false}
 skills/
 ├── autonomous-ai-agents/
 │   ├── claude-code/SKILL.md
@@ -48,7 +48,7 @@ optional-skills/    # 较大/小众技能，默认不激活
 
 每个技能是一个目录，包含 `SKILL.md` 文件：
 
-```markdown
+````markdown
 ---
 name: claude-code
 description: Delegate coding to Claude Code CLI
@@ -77,7 +77,7 @@ claude --acp --stdio --model claude-opus-4-6
 ## 参考文件
 - [API文档](references/api.md)
 - [脚本模板](scripts/run.sh)
-```
+````
 
 ### Frontmatter 字段
 
@@ -137,7 +137,7 @@ def skill_manage(action, name, content=None, ...):
 
 ## 技能使用流程
 
-```
+```text {linenos=false}
 用户: "帮我用 Claude Code 写个 PR"
        ↓
 Agent 匹配技能: claude-code
@@ -183,7 +183,7 @@ EOF
 
 ### 添加辅助文件
 
-```
+```text {linenos=false}
 ~/.hermes/skills/my-skill/
 ├── SKILL.md           # 主文件
 ├── references/        # 参考文档

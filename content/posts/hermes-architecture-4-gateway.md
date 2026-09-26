@@ -23,7 +23,7 @@ Gateway 是 Hermes 的消息平台网关，负责：
 
 `gateway/platforms/` 包含约 25+ 平台适配器：
 
-```
+```text {linenos=false}
 platforms/
 ├── telegram.py      # Telegram Bot API
 ├── discord.py       # Discord Bot
@@ -94,7 +94,7 @@ _AGENT_CACHE_IDLE_TTL_SECS = 3600  # 1 小时空闲后清理
 
 ## 消息处理流程
 
-```
+```text {linenos=false}
 平台消息 → platform.receive_message()
                 ↓
          GatewayRunner.handle_message()

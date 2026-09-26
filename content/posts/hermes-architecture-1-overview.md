@@ -16,7 +16,7 @@ Hermes Agent 是一个功能强大的 AI Agent 框架，支持多平台消息集
 
 Hermes 采用分层架构设计，主要包含以下核心模块：
 
-```
+```text {linenos=false}
 hermes-agent/
 ├── run_agent.py          # 核心对话引擎 - AIAgent 类
 ├── cli.py                # CLI 交互层
@@ -95,7 +95,7 @@ Gateway 负责与各消息平台对接，采用适配器模式：
 
 ## 数据流图
 
-```
+```text {linenos=false}
 用户消息 → Gateway → AIAgent.run_conversation()
                            ↓
                     构建 System Prompt
@@ -115,7 +115,7 @@ Gateway 负责与各消息平台对接，采用适配器模式：
 
 用户配置位于 `~/.hermes/`：
 
-```
+```text {linenos=false}
 ~/.hermes/
 ├── config.yaml      # 主配置文件
 ├── .env             # API 密钥

@@ -117,7 +117,7 @@ def memory(action, target, content=None, old_text=None):
 
 ### 存储位置
 
-```
+```text {linenos=false}
 ~/.hermes/
 ├── memory/
 │   ├── memory.md      # Agent 个人笔记
@@ -226,7 +226,7 @@ class TrajectoryCompressor:
 
 ## 状态持久化流程
 
-```
+```text {linenos=false}
 用户消息
     ↓
 SessionDB.save_message(session_id, "user", content)

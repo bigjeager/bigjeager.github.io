@@ -193,7 +193,7 @@ def resolve_toolset(name: str) -> list:
 
 ## 工具执行流程
 
-```
+```text {linenos=false}
 LLM 返回 tool_calls
        ↓
 handle_function_call(name, args)
